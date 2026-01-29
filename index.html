@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- SEO Meta Tags -->
+    <title>CaféCulture | Premium Artisan Coffee & Community Rituals</title>
+    <meta name="description" content="Experience the finest small-batch roasted coffee, house-made syrups, and a vibrant local community. Order online for quick pickup at CaféCulture." />
+    <meta name="keywords" content="coffee, artisan cafe, lavender latte, specialty coffee, online ordering, cafe community" />
+    <meta name="author" content="CaféCulture Roasting Co." />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://cafeculture.example.com/" />
+    <meta property="og:title" content="CaféCulture | Your Daily Ritual, Elevated" />
+    <meta property="og:description" content="Small-batch roasted, ethically sourced, and handcrafted daily. Join our community today." />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1497933321188-941f9ad36b12?auto=format&fit=crop&w=1200&q=80" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="CaféCulture | Your Daily Ritual, Elevated" />
+    <meta property="twitter:description" content="Handcrafted coffee and community events. Order now for pickup." />
+
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1" />
+    
+    <script>
+      tailwind.config = {
+        darkMode: 'media',
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                50: '#fdfcfb',
+                100: '#f7f4f1',
+                200: '#efedeb',
+                300: '#d4c3b5',
+                400: '#827064',
+                500: '#715038',
+                600: '#5d422e',
+                900: '#171412',
+              }
+            },
+            animation: {
+              shimmer: 'shimmer 2s infinite linear',
+            },
+            keyframes: {
+              shimmer: {
+                '0%': { backgroundPosition: '-1000px 0' },
+                '100%': { backgroundPosition: '1000px 0' },
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        scroll-behavior: smooth;
+        overflow-x: hidden;
+      }
+      .hide-scrollbar::-webkit-scrollbar { display: none; }
+      .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+      
+      .skeleton {
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 1000px 100%;
+        animation: shimmer 2s infinite linear;
+      }
+      .dark .skeleton {
+        background: linear-gradient(90deg, #222 25%, #333 50%, #222 75%);
+        background-size: 1000px 100%;
+      }
+    </style>
+    <script type="importmap">
+    {
+      "imports": {
+        "react/": "https://esm.sh/react@^19.2.3/",
+        "react": "https://esm.sh/react@^19.2.3",
+        "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+        "framer-motion": "https://esm.sh/framer-motion@^11.11.10",
+        "@google/genai": "https://esm.sh/@google/genai@^1.38.0"
+      }
+    }
+    </script>
+  <link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-brand-50 text-brand-900 dark:bg-brand-900 dark:text-brand-50 transition-colors duration-500">
+    <div id="root"></div>
+    <script type="module" src="./index.tsx"></script>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "name": "CaféCulture",
+  "description": "Artisan coffee and community hub.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

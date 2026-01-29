@@ -1,0 +1,4 @@
+[alias]
+    pushall = !git push tridop main && git push personal main
+    fetchall = !git fetch tridop && git fetch personal
+    pullall = !git pull tridop main && git pull personal main
