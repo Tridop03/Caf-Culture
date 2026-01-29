@@ -257,7 +257,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 5.75,
     description: 'Healing blend of turmeric, ginger, and black pepper with steamed coconut milk.',
     category: 'Specialty',
-    imageUrl: 'https://images.unsplash.com/photo-1542729779-11d8fe8e25f6?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/f4/6d/ce/f46dceeefd16c20353a72997eef346a6.jpg',
     dietary: ['Vegan', 'Gluten Free'],
     allergens: ['None']
   },
@@ -267,7 +267,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 6.25,
     description: 'Antioxidant-rich blue spirulina with vanilla and steamed macadamia milk.',
     category: 'Specialty',
-    imageUrl: 'https://images.unsplash.com/photo-1553173384-75051918a24c?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/736x/24/ff/3a/24ff3a445b91c5d9c3e0e8c6ea3672d3.jpg',
     dietary: ['Vegan', 'Gluten Free'],
     allergens: ['Nuts']
   },
@@ -277,7 +277,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 6.00,
     description: 'Earthy beetroot powder blended with raw cacao and a hint of cinnamon.',
     category: 'Specialty',
-    imageUrl: 'https://images.unsplash.com/photo-1582202685040-60b6d9266f81?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/5b/9d/9b/5b9d9be7be8a7054dd5bc9354d3b14e5.jpg',
     dietary: ['Vegan', 'Gluten Free'],
     allergens: ['None']
   },
@@ -287,7 +287,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 6.50,
     description: 'Activated charcoal, raw honey, and steamed cashew milk. Deeply restorative.',
     category: 'Specialty',
-    imageUrl: 'https://images.unsplash.com/photo-1515442261904-6c301c1b4819?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/d0/25/68/d02568a9da0eebeeee95c03f29ed93f3.jpg',
     dietary: ['Gluten Free'],
     allergens: ['Nuts', 'Honey']
   },
@@ -297,7 +297,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 5.50,
     description: 'Chilled sparking water infused with rose, mint, and cold-pressed cucumber.',
     category: 'Specialty',
-    imageUrl: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/736x/3b/94/50/3b9450c89ec1634925fd312b812f0f56.jpg',
     dietary: ['Vegan', 'Gluten Free'],
     allergens: ['None']
   },
@@ -307,7 +307,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 6.75,
     description: 'Double shot espresso, 70% dark cocoa, and a blend of Lion\'s Mane and Reishi.',
     category: 'Specialty',
-    imageUrl: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/be/98/a6/be98a6c1067a6dcae3765b7700e80b77.jpg',
     dietary: ['Vegan', 'Gluten Free'],
     allergens: ['None']
   }
