@@ -8,6 +8,7 @@ import MobileMenu from './components/MobileMenu';
 import CartSidebar from './components/CartSidebar';
 import Footer from './components/Footer';
 import { HeroSkeleton, MenuSkeleton } from './components/Skeleton';
+import './global.css';
 
 // Lazy load pages for performance
 const Home = lazy(() => import('./pages/Home'));
