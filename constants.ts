@@ -195,7 +195,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 4.25,
     description: 'Hand-twisted brioche dough with orange zest and Swedish cardamom.',
     category: 'Bakery',
-    imageUrl: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/68/47/e5/6847e541349c09f4f9c53f81c3dcdd7f.jpg',
     dietary: [],
     allergens: ['Wheat', 'Egg', 'Dairy']
   },
@@ -205,7 +205,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 5.50,
     description: 'Twice-baked sourdough croissant with pistachio frangipane and rose glaze.',
     category: 'Bakery',
-    imageUrl: 'https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/736x/26/b5/34/26b5340c787861d4fb636c6f385b3ddc.jpg',
     dietary: [],
     allergens: ['Wheat', 'Nuts', 'Dairy']
   },
@@ -215,7 +215,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 4.50,
     description: 'Fudgy 70% dark chocolate brownie with a swirl of sea salt caramel.',
     category: 'Bakery',
-    imageUrl: 'https://images.unsplash.com/photo-1464305795204-6f5bdf7f8740?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/ab/92/78/ab9278de6b297457a508e39f180d9423.jpg',
     dietary: ['Gluten Free'],
     allergens: ['Dairy', 'Egg']
   },
@@ -225,7 +225,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 3.75,
     description: 'Bursting with fresh blueberries and topped with a bright lemon sugar crumble.',
     category: 'Bakery',
-    imageUrl: 'https://images.unsplash.com/photo-1607958674115-05b93bb9ad1d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/736x/39/e1/d8/39e1d8dd453134dce70a10f21606f87a.jpg',
     dietary: [],
     allergens: ['Wheat', 'Dairy', 'Egg']
   },
@@ -235,7 +235,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 4.75,
     description: 'Flaky danish pastry filled with sweet almond paste and topped with sliced almonds.',
     category: 'Bakery',
-    imageUrl: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/88/00/aa/8800aa45e553df67d8260810e3aecfcd.jpg',
     dietary: [],
     allergens: ['Wheat', 'Dairy', 'Nuts']
   },
@@ -245,7 +245,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 5.25,
     description: 'Rustic free-form tart with seasonal fruit in a buttery cornmeal crust.',
     category: 'Bakery',
-    imageUrl: 'https://images.unsplash.com/photo-1621243793264-1678229a4a7f?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://i.pinimg.com/1200x/e5/2d/13/e52d13f6a7756556b5635c0197b9d724.jpg',
     dietary: [],
     allergens: ['Wheat', 'Dairy']
   },
